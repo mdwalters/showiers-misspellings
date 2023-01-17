@@ -1,4 +1,4 @@
-# showiers-misspellings
+# Showier's Misspellings
 Screenshots of every time **[@showierdata9978](https://github.com/showierdata9978)** misspelled a word!
 ## Contributing
 Every contribution is welcome, as long as if you follow these guidelines:
